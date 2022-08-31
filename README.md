@@ -45,6 +45,6 @@
    <a href = "https://www.linkedin.com/in/rosemberguedesenvolvedor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "https://www.facebook.com/rosembergue.luiz.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rosembergue/rosembergue/blob/output/github-contribution-grid-snake.svg)
  
 </div>
