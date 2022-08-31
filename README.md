@@ -27,18 +27,6 @@
   <img align="center" alt="Rosembergue-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Rosembergue-tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Rosembergue-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  
-  
-  
-  
-          
-          
-          
-          
-          
-          
-          
-  
   <img align="right" alt="Rosembergue-pic" height="150" style="border-radius:50px;" src="https://github.com/rosembergue/svi-intranet-img/blob/main/img/download20220802170802.png?width=676&height=676">
 </div>
   
