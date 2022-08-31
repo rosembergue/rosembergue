@@ -37,10 +37,10 @@ Here are some ideas to get you started:
   
  
   
-https://api.whatsapp.com/send?phone=559221133784&text=Jessica%20Pacheco
 
-  <a href = "https://api.whatsapp.com/send?phone=559221133784&text=Jessica%20Pacheco"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rosembergueluiz30@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+  <a href = "https://api.whatsapp.com/send?phone=55992405376&text=Rosembergue%20Luiz"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rosembergueluiz30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
